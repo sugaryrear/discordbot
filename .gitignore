@@ -1,0 +1,9 @@
+.idea/
+target/
+discordbot.iml
+props.json
+.factorypath
+.classpath
+.project
+out/
+.settings/
